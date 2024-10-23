@@ -1,0 +1,10 @@
+*.pyc
+*.log
+code/log/
+code/log_tensorboard/
+code/saved/
+**/*.bin
+**/*csv
+**/pytorch_model.bin
+tinyllama/*
+**/*slurm*out
